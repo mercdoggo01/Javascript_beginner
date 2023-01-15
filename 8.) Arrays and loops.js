@@ -9,7 +9,7 @@ for(let i=0 ; i<test_arr.length ; i++)
     console.log(test_arr[i]);
 }
 
-// 2.) forEach loop
+// 2.) forEach loop: calls a function once for each array element
 
 test_arr.forEach((element)=>{
     console.log(element);
